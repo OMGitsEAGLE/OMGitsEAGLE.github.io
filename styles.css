@@ -1,0 +1,25 @@
+
+@font-face {
+  src: url(fonts/Slaytanic.ttf);
+  font-family: nos;
+}
+
+body {
+  background: #221C16;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+h1 {
+  color: white;
+  font-family: nos, sans-serif;
+  font-weight: 5;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
