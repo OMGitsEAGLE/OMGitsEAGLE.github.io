@@ -27,6 +27,7 @@ a {
 img {
   max-width: 80%;
   max-height: 80%;
+  padding: 4%
 }
 
 
@@ -35,6 +36,7 @@ img {
   .fs {
     max-width: 40%;
     max-height: 40%;
+    padding: 0
   }
 
 }
