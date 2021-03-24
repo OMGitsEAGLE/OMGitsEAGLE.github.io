@@ -30,6 +30,13 @@ img {
   padding: 4%
 }
 
+video {
+  max-width: 92%;
+  height: auto;
+  padding: 4%
+}
+
+* { outline:none; }
 
 @media only screen and (min-width: 500px) {
 
